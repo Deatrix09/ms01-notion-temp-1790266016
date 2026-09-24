@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="720" viewBox="0 0 900 720">
+<rect width="900" height="720" fill="#0f172a"/>
+<text x="40" y="42" fill="#f8fafc" font-size="26" font-family="DejaVu Sans,sans-serif" font-weight="bold">7 fází simulace systémů</text>
+<rect x="40" y="70" width="820" height="72" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<circle cx="80" cy="106" r="22" fill="#38bdf8"/>
+<text x="80" y="113" text-anchor="middle" fill="#0f172a" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">1</text>
+<text x="120" y="98" fill="#f8fafc" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">Vymezení objektu zkoumání</text>
+<text x="120" y="124" fill="#94a3b8" font-size="14" font-family="DejaVu Sans,sans-serif">určení použitelných dílčích objektů</text>
+<rect x="40" y="158" width="820" height="72" rx="12" fill="#1e293b" stroke="#22d3ee" stroke-width="3"/>
+<circle cx="80" cy="194" r="22" fill="#22d3ee"/>
+<text x="80" y="201" text-anchor="middle" fill="#0f172a" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">2</text>
+<text x="120" y="186" fill="#f8fafc" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">Vymezení simulovaného systému</text>
+<text x="120" y="212" fill="#94a3b8" font-size="14" font-family="DejaVu Sans,sans-serif">volba hledisek na objektu poznání</text>
+<rect x="40" y="246" width="820" height="72" rx="12" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<circle cx="80" cy="282" r="22" fill="#34d399"/>
+<text x="80" y="289" text-anchor="middle" fill="#0f172a" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">3</text>
+<text x="120" y="274" fill="#f8fafc" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">Představa o systému</text>
+<text x="120" y="300" fill="#94a3b8" font-size="14" font-family="DejaVu Sans,sans-serif">formulace hypotéz</text>
+<rect x="40" y="334" width="820" height="72" rx="12" fill="#1e293b" stroke="#a3e635" stroke-width="3"/>
+<circle cx="80" cy="370" r="22" fill="#a3e635"/>
+<text x="80" y="377" text-anchor="middle" fill="#0f172a" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">4</text>
+<text x="120" y="362" fill="#f8fafc" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">Vytvoření simulačního modelu</text>
+<text x="120" y="388" fill="#94a3b8" font-size="14" font-family="DejaVu Sans,sans-serif">návrh a realizace modelu</text>
+<rect x="40" y="422" width="820" height="72" rx="12" fill="#1e293b" stroke="#fbbf24" stroke-width="3"/>
+<circle cx="80" cy="458" r="22" fill="#fbbf24"/>
+<text x="80" y="465" text-anchor="middle" fill="#0f172a" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">5</text>
+<text x="120" y="450" fill="#f8fafc" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">Ověření správnosti modelu</text>
+<text x="120" y="476" fill="#94a3b8" font-size="14" font-family="DejaVu Sans,sans-serif">srovnání s představou</text>
+<rect x="40" y="510" width="820" height="72" rx="12" fill="#1e293b" stroke="#fb923c" stroke-width="3"/>
+<circle cx="80" cy="546" r="22" fill="#fb923c"/>
+<text x="80" y="553" text-anchor="middle" fill="#0f172a" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">6</text>
+<text x="120" y="538" fill="#f8fafc" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">Ověření pravdivosti</text>
+<text x="120" y="564" fill="#94a3b8" font-size="14" font-family="DejaVu Sans,sans-serif">srovnání s požadavky a realizovatelností</text>
+<rect x="40" y="598" width="820" height="72" rx="12" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<circle cx="80" cy="634" r="22" fill="#f472b6"/>
+<text x="80" y="641" text-anchor="middle" fill="#0f172a" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">7</text>
+<text x="120" y="626" fill="#f8fafc" font-size="18" font-family="DejaVu Sans,sans-serif" font-weight="bold">Použití modelu místo systému</text>
+<text x="120" y="652" fill="#94a3b8" font-size="14" font-family="DejaVu Sans,sans-serif">věda, optimalizace, výuka, výcvik…</text>
+</svg>

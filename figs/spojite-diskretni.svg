@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<rect width="900" height="360" fill="#0f172a"/>
+<text x="40" y="40" fill="#f8fafc" font-size="24" font-family="DejaVu Sans,sans-serif" font-weight="bold">Tradiční dělení modelů</text>
+<rect x="40" y="80" width="260" height="240" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="70" y="130" fill="#38bdf8" font-size="24" font-family="DejaVu Sans,sans-serif" font-weight="bold">Spojité</text>
+<text x="70" y="180" fill="#e2e8f0" font-size="15" font-family="DejaVu Sans,sans-serif">Stav se mění spojitě</text>
+<text x="70" y="205" fill="#e2e8f0" font-size="15" font-family="DejaVu Sans,sans-serif">v čase (pružina, ODE)</text>
+<rect x="320" y="80" width="260" height="240" rx="16" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="350" y="130" fill="#f472b6" font-size="24" font-family="DejaVu Sans,sans-serif" font-weight="bold">Diskrétní</text>
+<text x="350" y="180" fill="#e2e8f0" font-size="15" font-family="DejaVu Sans,sans-serif">Změny v diskrétních</text>
+<text x="350" y="205" fill="#e2e8f0" font-size="15" font-family="DejaVu Sans,sans-serif">událostech (fronta, DEVS)</text>
+<rect x="600" y="80" width="260" height="240" rx="16" fill="#1e293b" stroke="#fbbf24" stroke-width="3"/>
+<text x="630" y="130" fill="#fbbf24" font-size="22" font-family="DejaVu Sans,sans-serif" font-weight="bold">Kombinované</text>
+<text x="630" y="180" fill="#e2e8f0" font-size="15" font-family="DejaVu Sans,sans-serif">Spojité + diskrétní</text>
+<text x="630" y="205" fill="#e2e8f0" font-size="15" font-family="DejaVu Sans,sans-serif">v jednom modelu</text>
+</svg>
